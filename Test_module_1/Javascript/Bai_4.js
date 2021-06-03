@@ -17,5 +17,5 @@ class Circle {
         pen.closePath();
     }
 }
-let circle1 = new Circle(100,100,50,'pink');
+let circle1 = new Circle(100,100,50,'#000000');
 circle1.render(canvas);
